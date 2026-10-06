@@ -102,7 +102,7 @@ I'm currently focusing on:
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/muhammed-rabeeh-0a4076368))
-- 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
+- 🌐 [Portfolio]([YOUR_PORTFOLIO_URL](https://portfolio-rabeeh10s-projects.vercel.app))
 - 📧 Email: muhammedrabeeh8075@gmail.com
 
 ---
